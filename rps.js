@@ -93,4 +93,3 @@ let playRound = (humanChoice) => {
         playRound("scissors");
     }
  })
-
